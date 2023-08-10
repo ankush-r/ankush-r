@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankush Rauniyar</h1>
 <h3 align="center">A versatile geek and cyber security enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush-r&label=Profile%20views&color=0e75b6&style=flat" alt="ankush-r" /> </p>
-
 - 🔭 I’m currently working on **FullStack Project**
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
@@ -30,5 +28,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankush-r&show_icons=true&locale=en&layout=compact" alt="ankush-r" /></p>
